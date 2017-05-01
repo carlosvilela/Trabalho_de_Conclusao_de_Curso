@@ -2,5 +2,5 @@
 ## Trabalho de Conclusão de Curso
 <addr></addr>
 <br>
-> ### Carlos Vilela
+> # Carlos Vilela
 ### Lucas
