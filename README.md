@@ -1,4 +1,2 @@
-<center>
 # ASSOCIAÇÃO CARIOCA DE ENSINO SUPERIOR
 # UNICARIOCA
-</center>
