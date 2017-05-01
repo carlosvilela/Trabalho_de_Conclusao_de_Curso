@@ -1,8 +1,6 @@
 ## ASSOCIAÇÃO CARIOCA DE ENSINO SUPERIOR (UNICARIOCA)
 # Trabalho de Conclusão de Curso
 
-<b><addr></addr></b>
-
 # Carlos Vilela
 # Lucas Pereira
 
