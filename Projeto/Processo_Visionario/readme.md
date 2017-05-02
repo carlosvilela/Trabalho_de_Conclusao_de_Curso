@@ -1,7 +1,5 @@
 # Processo Visionário
 <br><br>
-................................................||==<br>
-=================||=====<br>
-||...VISAO-CENTRAL...||.Int/Ext.===<br>
-=============||=====<br>
-................................................||==<br>
+Visão Emergente: Ideias de Produto ou serviços
+Visão Central: Resultado das visões Emergentes
+Visão Complementar: Gestão para consecução da Visão Central
